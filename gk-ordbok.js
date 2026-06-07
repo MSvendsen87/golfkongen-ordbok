@@ -787,7 +787,7 @@
     var style = document.createElement("style");
     style.id = "gk-ordbok-style";
     style.textContent = [
-      "#gk-dg-dictionary{max-width:720px;width:100%;margin:0 auto;padding:0 12px 34px;box-sizing:border-box;font-family:Arial,Helvetica,sans-serif;color:#e5e7eb;clear:none;float:none}",
+      "#gk-dg-dictionary{max-width:none;width:100%;margin:0;padding:0 12px 34px;box-sizing:border-box;font-family:Arial,Helvetica,sans-serif;color:#e5e7eb;clear:none;float:none}",
       "#gk-dg-dictionary *{box-sizing:border-box}",
       "#gk-dg-dictionary .gk-hero{border-radius:20px;padding:26px 20px;text-align:center;background:linear-gradient(135deg,#0b1220 0%,#111827 100%);border:1px solid rgba(255,255,255,.10);box-shadow:0 14px 34px rgba(0,0,0,.28);margin:0 0 18px}",
       "#gk-dg-dictionary .gk-badge{display:inline-block;padding:7px 12px;margin-bottom:12px;border-radius:999px;background:rgba(250,204,21,.14);color:#facc15;font-size:12px;font-weight:900;letter-spacing:.4px;text-transform:uppercase}",
